@@ -8,7 +8,7 @@ Things you may want to cover:version
 
 * Key Dependencies: [Ruby on Rails](https://rubyonrails.org/) version 6, [Vue.js](https://vuejs.org/) version 2.6.11, [Vuetify](https://vuetifyjs.com/en/) version 2.1.15
 
-git clone `https://github.com/akshch/rails_vuejs.git`
+git clone `https://github.com/spreadmycode/rails-vuetify.git`
 
 Then run `bundle install`
 
